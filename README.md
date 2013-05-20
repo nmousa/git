@@ -1,2 +1,2 @@
-git
+What is git
 ===
